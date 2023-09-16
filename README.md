@@ -1,8 +1,8 @@
 ## Opa! Eu sou o Jordan Zitzke 🤙
 
-💼 Trabalhando na equipe de robótica da FURG(FBOT|FSEK)
+👨‍💼 Trabalhando na equipe de robótica da FURG(FBOT|FSEK)
 
-🧑‍💼 Estagiário no INFOEDUC(C3|FURG).
+👨‍💼 Estagiário no INFOEDUC(C3|FURG).
 
 🌱 Aprendendo mais sobre PLN
 
