@@ -8,8 +8,6 @@
 
 🌱 Aprendendo mais sobre PLN
 
-👯 Colaborando com FBOT e um projeto envolvendo PLN
-
 ✉️ Contato: jordan.zitzke.rs@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-zitzke-13417927b/)
