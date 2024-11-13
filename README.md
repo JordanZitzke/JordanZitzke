@@ -4,9 +4,9 @@
 
 👨‍💼 Atualmente trabalhando no laboratório Combi-Lab (FURG)
 
-👨‍💼 Trabalhei na equipe de robótica da FURG(FBOT|FSEK)
+👨‍💼 Trabalhei na equipe de robótica da FURG (FBOT|FSEK)
 
-👨‍💼 Fui Estagiário no INFOEDUC(C3|FURG)
+👨‍💼 Fui Estagiário no INFOEDUC (C3|FURG)
 
 
 🌱 Aprimorando em CNNs
