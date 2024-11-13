@@ -1,12 +1,15 @@
 ## Opa! Eu sou o Jordan Zitzke 🤙
 
-📚 Engenheiro de Computação e Mestrando em Bioinformática
+📚 Engenheiro de Computação e Mestrando em Engenharia de Computação (Bioinformática)
+
+👨‍💼 Atualmente trabalhando no laboratório Combi-Lab (FURG)
 
 👨‍💼 Trabalhei na equipe de robótica da FURG(FBOT|FSEK)
 
-👨‍💼 Fui Estagiário no INFOEDUC(C3|FURG).
+👨‍💼 Fui Estagiário no INFOEDUC(C3|FURG)
 
-🌱 Aprendendo mais sobre PLN
+
+🌱 Aprimorando em CNNs
 
 ✉️ Contato: jordan.zitzke.rs@gmail.com
 
